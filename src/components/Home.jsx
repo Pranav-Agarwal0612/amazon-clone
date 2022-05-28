@@ -1,5 +1,5 @@
 import React from 'react'
-import './Home.css'
+import '../styles/Home.css'
 
 function Home() {
     return (
@@ -17,7 +17,7 @@ function Home() {
                     {/* product */}
                     {/* product */}
                 </div>
-                
+
                 <div className='home__row'>
                     {/* product */}
                 </div>
